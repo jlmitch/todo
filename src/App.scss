@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+    div {
+      display: inline-block;
+      width: 400px;
+
+      .App-title {
+        color: red;
+      }
+       
+      .button {
+        margin-left: 10px;
+      }
+
+      .list-wrapper {
+        width: 82px;
+      }
+    }
+}
